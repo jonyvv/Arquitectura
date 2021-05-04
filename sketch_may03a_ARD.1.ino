@@ -1,3 +1,4 @@
+//jfgojhsafdhsaf
 void setup(){ //el void setup es la parte de nuestro programa que selecciona el bloque en el que se almacenarán estos comandos
   pinMode(4, INPUT); //define que el pin 4 es una entrada
   pinMode(2, OUTPUT); //define que el pin 2 es una salida

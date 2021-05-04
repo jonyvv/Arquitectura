@@ -39,4 +39,4 @@ void loop() //el loop hace que el programa comienza directamente después del co
 
   
 } //indica que cierra el loop 
-//no entiendo nada 
+//no entiendo nadafigodfjogdfjopg 
